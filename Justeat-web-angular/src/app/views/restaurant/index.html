@@ -1,0 +1,30 @@
+<div className="row">
+    <div className="col-md-12">
+        <div class="input-group">
+            <input type="text" class="form-control" ng-model="query" />
+            <span class="input-group-addon search-btn" ng-click="search()">Search</span>
+        </div>
+    </div>
+    <div class="row">
+        <div class="list-group">
+            <div ng-if="restaurants != null" class="col-xs-12 col-lg-12" ng-repeat="item in restaurants">
+                <div class="thumbnail">
+                    <div class="caption">
+                        <h4>{{item.Name}} </h4>
+                        <div class="">
+                            <span ng-repeat="n in [] | range:item.RatingStars">
+                            <i class="glyphicon glyphicon-star"></i>
+                        </span>
+                        </div>
+                        <div class="">
+                            <span class="tag label-info" ng-repeat="cusine in item.CuisineTypes">
+                                {{cusine.Name}}
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>

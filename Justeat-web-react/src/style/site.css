@@ -1,0 +1,40 @@
+.page-container {
+ width: 1024px;
+ margin:auto;
+ border: 1px solid #dddddd;
+ border-radius: 10px;
+ margin-top: 10px;
+ padding: 15px;
+}
+
+.thumbnail
+{
+    margin-bottom: 20px;
+    padding: 0px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+}
+
+.list-group
+{
+    margin-top:20px;
+}
+
+.tag {
+    margin-right: 2px;
+    color: white;
+    font-size: 14px;
+    padding:2px 8px;
+    border: 1px solid #5bc0de;
+    border-radius: 2px;
+}
+
+.label-info {
+    background-color: #5bc0de;
+}
+
+.search-btn
+{
+    cursor: pointer;
+}

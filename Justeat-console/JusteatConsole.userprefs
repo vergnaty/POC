@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{216B9ECA-2AA2-4D17-A98A-305CBF7BED72}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Justeat.UnitTest/UnitTest1.cs">
+    <Files>
+      <File FileName="JusteatConsole/Program.cs" Line="108" Column="10" />
+      <File FileName="Justeat.Repository/IRestaurantService.cs" Line="23" Column="32" />
+      <File FileName="Justeat.DataService/ApiRestaurantService.cs" Line="10" Column="30" />
+      <File FileName="Justeat.DataService/ApiResponses/RestaurantResponse.cs" Line="10" Column="38" />
+      <File FileName="Justeat.Entities/Restaurant.cs" Line="31" Column="2" />
+      <File FileName="JusteatConsole/Infrastructure/IoCContainer.cs" Line="1" Column="10" />
+      <File FileName="Justeat.Entities/Pagination.cs" Line="13" Column="9" />
+      <File FileName="Justeat.UnitTest/UnitTest1.cs" Line="20" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JusteatConsole" expanded="True">
+            <Node name="App.Console" expanded="True" />
+            <Node name="Justeat.Data" expanded="True" />
+            <Node name="Justeat.Entities" expanded="True" />
+            <Node name="Justeat.Repository" expanded="True" />
+            <Node name="Justeat.UnitTest" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="JusteatConsole" expanded="True">
+            <Node name="Justeat.UnitTest" expanded="True">
+              <Node name="Justeat" expanded="True">
+                <Node name="UnitTest" expanded="True">
+                  <Node name="RestorantUnitTest" expanded="True">
+                    <Node name="Get_Restorants_By_Given_Invalid_Code_Expected_Argument_Exception" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.App.Console PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

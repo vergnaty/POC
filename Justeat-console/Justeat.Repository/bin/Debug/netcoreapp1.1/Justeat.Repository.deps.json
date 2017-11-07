@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "justeat.repository/1.0.0": {
+        "dependencies": {
+          "Justeat.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Justeat.Repository.dll": {}
+        }
+      },
+      "justeat.entities/1.0.0": {
+        "runtime": {
+          "Justeat.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "justeat.repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "justeat.entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Justeat.Entities\Justeat.Entities.csproj" />
+    <ProjectReference Include="..\Justeat.Repository\Justeat.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,29 @@
+c:/users/a0732249/documents/visual studio 2017/Projects/JusteatConsole/Justeat.Repository/bin/Debug/netcoreapp1.1/Justeat.Repository.deps.json
+c:/users/a0732249/documents/visual studio 2017/Projects/JusteatConsole/Justeat.Repository/bin/Debug/netcoreapp1.1/Justeat.Repository.dll
+c:/users/a0732249/documents/visual studio 2017/Projects/JusteatConsole/Justeat.Repository/bin/Debug/netcoreapp1.1/Justeat.Repository.pdb
+c:/users/a0732249/documents/visual studio 2017/Projects/JusteatConsole/Justeat.Repository/bin/Debug/netcoreapp1.1/Justeat.Entities.dll
+c:/users/a0732249/documents/visual studio 2017/Projects/JusteatConsole/Justeat.Repository/bin/Debug/netcoreapp1.1/Justeat.Entities.pdb
+c:/users/a0732249/documents/visual studio 2017/Projects/JusteatConsole/Justeat.Repository/obj/Debug/netcoreapp1.1/Justeat.Repository.csprojResolveAssemblyReference.cache
+c:/users/a0732249/documents/visual studio 2017/Projects/JusteatConsole/Justeat.Repository/obj/Debug/netcoreapp1.1/Justeat.Repository.AssemblyInfo.cs
+c:/users/a0732249/documents/visual studio 2017/Projects/JusteatConsole/Justeat.Repository/obj/Debug/netcoreapp1.1/Justeat.Repository.dll
+c:/users/a0732249/documents/visual studio 2017/Projects/JusteatConsole/Justeat.Repository/obj/Debug/netcoreapp1.1/Justeat.Repository.pdb
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.Repository/bin/Debug/netcoreapp1.1/Justeat.Repository.deps.json
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.Repository/bin/Debug/netcoreapp1.1/Justeat.Repository.dll
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.Repository/bin/Debug/netcoreapp1.1/Justeat.Repository.pdb
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.Repository/bin/Debug/netcoreapp1.1/Justeat.Entities.dll
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.Repository/bin/Debug/netcoreapp1.1/Justeat.Entities.pdb
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.Repository/obj/Debug/netcoreapp1.1/Justeat.Repository.csprojResolveAssemblyReference.cache
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.Repository/obj/Debug/netcoreapp1.1/Justeat.Repository.csproj.CoreCompileInputs.cache
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.Repository/obj/Debug/netcoreapp1.1/Justeat.Repository.AssemblyInfo.cs
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.Repository/obj/Debug/netcoreapp1.1/Justeat.Repository.dll
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.Repository/obj/Debug/netcoreapp1.1/Justeat.Repository.pdb
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.Repository/bin/Debug/netcoreapp1.1/Justeat.Repository.deps.json
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.Repository/bin/Debug/netcoreapp1.1/Justeat.Repository.dll
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.Repository/bin/Debug/netcoreapp1.1/Justeat.Repository.pdb
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.Repository/bin/Debug/netcoreapp1.1/Justeat.Entities.dll
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.Repository/bin/Debug/netcoreapp1.1/Justeat.Entities.pdb
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.Repository/obj/Debug/netcoreapp1.1/Justeat.Repository.csprojResolveAssemblyReference.cache
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.Repository/obj/Debug/netcoreapp1.1/Justeat.Repository.csproj.CoreCompileInputs.cache
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.Repository/obj/Debug/netcoreapp1.1/Justeat.Repository.AssemblyInfo.cs
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.Repository/obj/Debug/netcoreapp1.1/Justeat.Repository.dll
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.Repository/obj/Debug/netcoreapp1.1/Justeat.Repository.pdb

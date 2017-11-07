@@ -1,0 +1,23 @@
+c:/users/a0732249/documents/visual studio 2017/Projects/JusteatConsole/Justeat.Entities/bin/Debug/netcoreapp1.1/Justeat.Entities.deps.json
+c:/users/a0732249/documents/visual studio 2017/Projects/JusteatConsole/Justeat.Entities/bin/Debug/netcoreapp1.1/Justeat.Entities.dll
+c:/users/a0732249/documents/visual studio 2017/Projects/JusteatConsole/Justeat.Entities/bin/Debug/netcoreapp1.1/Justeat.Entities.pdb
+c:/users/a0732249/documents/visual studio 2017/Projects/JusteatConsole/Justeat.Entities/obj/Debug/netcoreapp1.1/Justeat.Entities.csprojResolveAssemblyReference.cache
+c:/users/a0732249/documents/visual studio 2017/Projects/JusteatConsole/Justeat.Entities/obj/Debug/netcoreapp1.1/Justeat.Entities.AssemblyInfo.cs
+c:/users/a0732249/documents/visual studio 2017/Projects/JusteatConsole/Justeat.Entities/obj/Debug/netcoreapp1.1/Justeat.Entities.dll
+c:/users/a0732249/documents/visual studio 2017/Projects/JusteatConsole/Justeat.Entities/obj/Debug/netcoreapp1.1/Justeat.Entities.pdb
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.Entities/bin/Debug/netcoreapp1.1/Justeat.Entities.deps.json
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.Entities/bin/Debug/netcoreapp1.1/Justeat.Entities.dll
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.Entities/bin/Debug/netcoreapp1.1/Justeat.Entities.pdb
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.Entities/obj/Debug/netcoreapp1.1/Justeat.Entities.csprojResolveAssemblyReference.cache
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.Entities/obj/Debug/netcoreapp1.1/Justeat.Entities.csproj.CoreCompileInputs.cache
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.Entities/obj/Debug/netcoreapp1.1/Justeat.Entities.AssemblyInfo.cs
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.Entities/obj/Debug/netcoreapp1.1/Justeat.Entities.dll
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.Entities/obj/Debug/netcoreapp1.1/Justeat.Entities.pdb
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.Entities/bin/Debug/netcoreapp1.1/Justeat.Entities.deps.json
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.Entities/bin/Debug/netcoreapp1.1/Justeat.Entities.dll
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.Entities/bin/Debug/netcoreapp1.1/Justeat.Entities.pdb
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.Entities/obj/Debug/netcoreapp1.1/Justeat.Entities.csprojResolveAssemblyReference.cache
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.Entities/obj/Debug/netcoreapp1.1/Justeat.Entities.csproj.CoreCompileInputs.cache
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.Entities/obj/Debug/netcoreapp1.1/Justeat.Entities.AssemblyInfo.cs
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.Entities/obj/Debug/netcoreapp1.1/Justeat.Entities.dll
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.Entities/obj/Debug/netcoreapp1.1/Justeat.Entities.pdb

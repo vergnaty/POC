@@ -1,0 +1,35 @@
+c:/users/a0732249/documents/visual studio 2017/Projects/JusteatConsole/Justeat.DataService/bin/Debug/netcoreapp1.1/Justeat.Data.deps.json
+c:/users/a0732249/documents/visual studio 2017/Projects/JusteatConsole/Justeat.DataService/bin/Debug/netcoreapp1.1/Justeat.Data.dll
+c:/users/a0732249/documents/visual studio 2017/Projects/JusteatConsole/Justeat.DataService/bin/Debug/netcoreapp1.1/Justeat.Data.pdb
+c:/users/a0732249/documents/visual studio 2017/Projects/JusteatConsole/Justeat.DataService/bin/Debug/netcoreapp1.1/Justeat.Entities.dll
+c:/users/a0732249/documents/visual studio 2017/Projects/JusteatConsole/Justeat.DataService/bin/Debug/netcoreapp1.1/Justeat.Repository.dll
+c:/users/a0732249/documents/visual studio 2017/Projects/JusteatConsole/Justeat.DataService/bin/Debug/netcoreapp1.1/Justeat.Entities.pdb
+c:/users/a0732249/documents/visual studio 2017/Projects/JusteatConsole/Justeat.DataService/bin/Debug/netcoreapp1.1/Justeat.Repository.pdb
+c:/users/a0732249/documents/visual studio 2017/Projects/JusteatConsole/Justeat.DataService/obj/Debug/netcoreapp1.1/Justeat.Data.csprojResolveAssemblyReference.cache
+c:/users/a0732249/documents/visual studio 2017/Projects/JusteatConsole/Justeat.DataService/obj/Debug/netcoreapp1.1/Justeat.Data.AssemblyInfo.cs
+c:/users/a0732249/documents/visual studio 2017/Projects/JusteatConsole/Justeat.DataService/obj/Debug/netcoreapp1.1/Justeat.Data.dll
+c:/users/a0732249/documents/visual studio 2017/Projects/JusteatConsole/Justeat.DataService/obj/Debug/netcoreapp1.1/Justeat.Data.pdb
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.DataService/bin/Debug/netcoreapp1.1/Justeat.Data.deps.json
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.DataService/bin/Debug/netcoreapp1.1/Justeat.Data.dll
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.DataService/bin/Debug/netcoreapp1.1/Justeat.Data.pdb
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.DataService/bin/Debug/netcoreapp1.1/Justeat.Entities.dll
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.DataService/bin/Debug/netcoreapp1.1/Justeat.Repository.dll
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.DataService/bin/Debug/netcoreapp1.1/Justeat.Entities.pdb
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.DataService/bin/Debug/netcoreapp1.1/Justeat.Repository.pdb
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.DataService/obj/Debug/netcoreapp1.1/Justeat.Data.csprojResolveAssemblyReference.cache
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.DataService/obj/Debug/netcoreapp1.1/Justeat.Data.csproj.CoreCompileInputs.cache
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.DataService/obj/Debug/netcoreapp1.1/Justeat.Data.AssemblyInfo.cs
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.DataService/obj/Debug/netcoreapp1.1/Justeat.Data.dll
+/Users/dev88/Downloads/JusteatConsole (1)/Justeat.DataService/obj/Debug/netcoreapp1.1/Justeat.Data.pdb
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.DataService/bin/Debug/netcoreapp1.1/Justeat.Data.deps.json
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.DataService/bin/Debug/netcoreapp1.1/Justeat.Data.dll
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.DataService/bin/Debug/netcoreapp1.1/Justeat.Data.pdb
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.DataService/bin/Debug/netcoreapp1.1/Justeat.Entities.dll
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.DataService/bin/Debug/netcoreapp1.1/Justeat.Repository.dll
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.DataService/bin/Debug/netcoreapp1.1/Justeat.Entities.pdb
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.DataService/bin/Debug/netcoreapp1.1/Justeat.Repository.pdb
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.DataService/obj/Debug/netcoreapp1.1/Justeat.Data.csprojResolveAssemblyReference.cache
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.DataService/obj/Debug/netcoreapp1.1/Justeat.Data.csproj.CoreCompileInputs.cache
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.DataService/obj/Debug/netcoreapp1.1/Justeat.Data.AssemblyInfo.cs
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.DataService/obj/Debug/netcoreapp1.1/Justeat.Data.dll
+/Users/dev88/Projects/Natnael-Getu/Justeat-console/Justeat.DataService/obj/Debug/netcoreapp1.1/Justeat.Data.pdb
